@@ -1,1 +1,1 @@
-exec:echo Hello, World!
+con:0
