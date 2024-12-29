@@ -1,1 +1,1 @@
-# RCP (Remote-Control-Panel)
+# RCP (Remote Control Panel)
